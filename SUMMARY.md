@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home](README.md)
+* [Wet- en Regelgeving Oosterveld](README.md)
 * [APV Oosterveld](apv-oosterveld.md)
