@@ -14,7 +14,6 @@ Oosterveld heeft verschillende discord servers:
 
 | Server                                | Beschrijving                                         |               Invite link               |
 | ------------------------------------- | ---------------------------------------------------- | :-------------------------------------: |
-| The Nexus V                           | De officiële gaming community achter Oosterveld RP   | [Invite](https://discord.gg/4XykdATvCC) |
 | Oosterveld Roleplay                   | Main Discord van Oosterveld                          | [Invite](https://discord.gg/DD44y8Yftg) |
 | Oosterveld Support                    | Support van Oosterveld                               | [Invite](https://discord.gg/XN9Jf7432S) |
 | Oosterveld Cardealer                  | Cardealer van Oosterveld                             | [Invite](https://discord.gg/rDmxFNXrhX) |
